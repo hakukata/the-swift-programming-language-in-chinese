@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [欢迎使用 Swift](chapter1/chapter1.md)
    * [关于 Swift](chapter1/01_swift.md)
    * [Swift 初见](chapter1/02_a_swift_tour.md)
