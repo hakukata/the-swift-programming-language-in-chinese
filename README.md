@@ -1,6 +1,8 @@
 《The Swift Programming Language》in Chinese
 =============================================
 
+> 本开源书 forked from [《The Swift Programming Language》 中文版](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)，作者为 [numbbbbb](https://github.com/numbbbbb)，欢迎大家 star 原作者的 [repo](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)，以便获得最新更新，谢谢！
+
 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
 [英文原版](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)
